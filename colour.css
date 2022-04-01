@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(37, 180, 37);
+    color: azure;
+    font-size: xxx-large
+}
+body{
+    background-color: rgba(197, 176, 176, 0.315);
+
+}
+.dog{
+     background-color:rgb(250, 250, 240);
+}
+#comments{
+    background-color: rgb(250, 250, 240);
+}
